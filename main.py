@@ -1,4 +1,4 @@
-# This python code helps me to delete extra unneeded characters from folder names and file names
+# This python code helps the user to delete extra unneeded characters from folder names and file names
 
 class foldername():
 
