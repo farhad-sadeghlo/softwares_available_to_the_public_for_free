@@ -1,3 +1,5 @@
+This software is not completed yet.
+
 I wanted to change the names of some folders and files on my system, I was like why not writing a software for it.
 
 Maybe you need such a software too. So, here it is. Enjoy.
