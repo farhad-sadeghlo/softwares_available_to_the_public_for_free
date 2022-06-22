@@ -43,4 +43,4 @@ if __name__ == '__main__':
     if response == 'yes':
         foldername(str(input()), int(input()), int(input())).foldername_changer()
     if response == 'no':
-        filename()
+        filename(str(input()), int(input()), int(input()), str(input()))
